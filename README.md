@@ -1,10 +1,13 @@
  <img align="center" style="margin-bottom:100px; object-fit: contain" width=20% src="https://github.com/Mar-vin-bot/Mar-vin-bot.github.io/blob/main/img/teste.jpeg" />
 &nbsp;&nbsp;&nbsp;
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Micaelli+Medeiros;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,+my+name+is+Marvin+de+Souza;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,+my+name+is+Marvin+de+Souza;Nice+to+meet+you!+:%29+%3Awink%3A)](https://git.io/typing-svg)
 
 
-<p style="text-align: left;">Hello dear, </p>
+
+<p style="text-align: left;">Greetings, </p>
 <p style="text-align: left;">Sou estudante apaixonado por tecnologia e desenvolvimento de software, buscando ingressar no mercado de trabalho para aplicar os conhecimentos adquiridos durante minha formação acadêmica. Comprometido em aprender e crescer profissionalmente, estou animado para contribuir com projetos desafiadores e fazer parte de uma equipe dinâmica. Estou pronto para enfrentar novos desafios e estou confiante de que minha dedicação e habilidades me permitirão ter um impacto positivo na área de desenvolvimento de software. 
  </p>&nbsp;
 

@@ -1,0 +1,52 @@
+.div-main{
+    width: 300px;
+    height: 330px;
+    border: 5px solid blue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.div-img {
+    width: 250px;
+    height: 150px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+   /* background-image: url('/img/projetos/ds-viaCep.png');*/
+    background-size: cover; /*redimensiona a img para cobrir tamanho da div*/
+    background-position: center; /* centraliza a img na div */
+    border: 1px solid red;
+}
+
+/* condicionando a img na div atraves do seletor*/
+.div-img img {
+    width: 100%; 
+    height: 100%; 
+    display: block; 
+}
+
+
+.div-title{
+    width: 250px;
+    height: 40px;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid yellow;
+}
+
+.div-text{
+    width: 250px;
+    height: 90px;
+    font-size: 12px;
+    margin-bottom: 10px;
+    border: 1px solid green;
+}
+
+.div-button{  
+    margin-bottom: 5px;
+  }
+
+

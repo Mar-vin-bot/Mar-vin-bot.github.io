@@ -6,10 +6,11 @@
 <p style="text-align: left;">Sou estudante apaixonado por tecnologia e desenvolvimento de software, buscando ingressar no mercado de trabalho para aplicar os conhecimentos adquiridos durante minha formação acadêmica. Comprometido em aprender e crescer profissionalmente, estou animado para contribuir com projetos desafiadores e fazer parte de uma equipe dinâmica. Estou pronto para enfrentar novos desafios e estou confiante de que minha dedicação e habilidades me permitirão ter um impacto positivo na área de desenvolvimento de software. 
  </p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=mar-vin-bot&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=kyronsatt&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center" style="margin-bottom: 100px;">
+    <img width="55%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mar-vin-bot&theme=radical&mode=weekly" />
+    <img width="40%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=mar-vin-bot&show_icons=true&theme=radical&layout=compact" />
+</div>
+
  
  &nbsp;
  &nbsp;

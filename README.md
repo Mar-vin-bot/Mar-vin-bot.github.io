@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,+my+name+is+Marvin+de+Souza;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,+my+name+is+Marvin+de+Souza;Nice+to+meet+you!+:%29+%3Awink%3A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,+my+name+is+Marvin+de+Souza;Nice+to+meet+you!+:%29+:wink:)](https://git.io/typing-svg)
 
 
 

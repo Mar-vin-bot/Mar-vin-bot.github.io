@@ -8,6 +8,7 @@
   <img align="center" style="margin-bottom:100px; object-fit: contain; border-radius: 50%;" width="20%" src="https://github.com/Mar-vin-bot/Mar-vin-bot.github.io/blob/main/img/teste.jpeg" />
 </div>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,+my+name+is+Marvin+de+Souza;Nice+to+meet+you!+%F0%9F%98%89)](https://git.io/typing-svg)
 
 

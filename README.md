@@ -1,12 +1,22 @@
-<div style="display: flex; align-items: center;">
-  <div style="display: inline-block;">
-    <img align="center" style="margin-bottom:100px; object-fit: contain" width="20%" src="https://github.com/Mar-vin-bot/Mar-vin-bot.github.io/blob/main/img/teste.jpeg" />
+<p align="center">
+    <img align="center" style="margin-bottom:100px; object-fit: contain" width="20%" src="https://github.com/Mar-vin-bot/Mar-vin-bot.github.io/blob/main/img/teste.jpeg" alt="Image" />
+    &nbsp;&nbsp;&nbsp;
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,     +my+name+is+Marvin+de+Souza;Nice+to+meet+you!+%F0%9F%98%89" alt="Typing SVG" />
+    </a>
+</p>
+
+<!--
+<div>
+  <div>
+       <img align="center" style="margin-bottom:100px; object-fit: contain" width=20% src="https://github.com/Mar-vin-bot/Mar-vin-bot.github.io/blob/main/img/teste.jpeg" />
+&nbsp;&nbsp;&nbsp;
   </div>
-  <div style="display: inline-block; margin-left: 10px;">
-    [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,     +my+name+is+Marvin+de+Souza;Nice+to+meet+you!+%F0%9F%98%89)](https://git.io/typing-svg)
+  <div>
+      [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,     +my+name+is+Marvin+de+Souza;Nice+to+meet+you!+%F0%9F%98%89)](https://git.io/typing-svg)
   </div>
 </div>
-
+-->
 
 
 

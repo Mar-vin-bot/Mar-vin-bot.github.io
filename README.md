@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,     +my+name+is+Marvin+de+Souza;Nice+to+meet+you!+%F0%9F%98%89)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello+dear,+my+name+is+Marvin+de+Souza;Nice+to+meet+you!+%F0%9F%98%89)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Micaelli+Medeiros;Nice+to+meet+you!+:%29)](https://git.io/typing-svg)
 

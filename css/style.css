@@ -303,13 +303,14 @@ h1, h2{
     }
 
     .footer {
-        height: 100px;
-        width: 100%;
+        font-size: 25px;
         display: flex;
         justify-content: center;
         align-items: center;
-        background-color: purple;
+        background-color:white;
+        color: black;
     }
+
 
     /* RESPONSIVE */
 
